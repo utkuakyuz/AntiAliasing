@@ -1,6 +1,13 @@
 # Anti-aliasing Algorithm
 
-This is a Python implementation of an anti-aliasing algorithm, which uses circle shapes as an example. Anti-aliasing is a technique used to smooth the edges of an image or graphic to make it appear more realistic and less pixelated.
+This is a Python implementation of an anti-aliasing algorithm, which uses circle shapes as an example. Anti-aliasing is a technique used to smooth the edges of an image or graphic to make it appear more realistic and less pixelated. 
+The below image shows original circle:
+![image](https://user-images.githubusercontent.com/79662515/235304723-bb413d37-0ff6-44df-a60f-37995ce04f6c.png)
+
+And the below image shows antialiased circle:
+
+![image](https://user-images.githubusercontent.com/79662515/235304751-374af1fc-75d1-4428-befb-601c47998227.png)
+
 
 ## Requirements
 
